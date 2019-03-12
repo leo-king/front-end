@@ -1,2 +1,2 @@
 # front-end
-a repository about my trip of front-end learning
+a repository about my trip of front-end learning by hmk
